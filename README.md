@@ -11,7 +11,7 @@ Where:
 2) `<bool> = 0` - Chrome browser is called
 
 ## Example:
-`python3 main.py "Absract Student" "Abstract topic"`
+`python3 main.py 1 "Absract Student" "Abstract topic"`
 
 ## Requirements
 
