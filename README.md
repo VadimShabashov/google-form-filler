@@ -10,6 +10,9 @@ Where:
 1) `<bool> = 1` - Firefox browser is called
 2) `<bool> = 0` - Chrome browser is called
 
+## Example:
+`python3 main.py "Absract Student" "Abstract topic"`
+
 ## Requirements
 
 * `sudo apt-get install chromedriver`
